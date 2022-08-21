@@ -9,3 +9,7 @@ Check status of those files with git status
 5. Commit changes to version history
 6. Review previous changes with git log
 
+## Table of Contents
+
+- example-file.txt
+
